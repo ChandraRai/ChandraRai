@@ -1,6 +1,6 @@
 ### Welcome to My Github repo!
 
-> My name is [Chandra][website]. I am a software developer and ML enthusiast.
+> My name is Chandra. I am a software developer and ML enthusiast.
 > I also like to visualize data.
 > Besides, I love to take pictures and play guitar.
 
